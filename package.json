@@ -1,0 +1,19 @@
+{
+  "name": "nickjgentile",
+  "version": "1.0.0",
+  "description": "A site about me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nickjgentile/nickjgentile.git"
+  },
+  "author": "Nick Gentile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickjgentile/nickjgentile/issues"
+  },
+  "homepage": "https://github.com/nickjgentile/nickjgentile#readmeDDP"
+}
