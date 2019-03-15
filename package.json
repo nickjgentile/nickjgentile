@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nickjgentile/nickjgentile/issues"
   },
-  "homepage": "https://github.com/nickjgentile/nickjgentile#readmeDDP"
+  "homepage": "https://github.com/nickjgentile/nickjgentile#readmeDDP",
+  "devDependencies": {
+    "axios": "^0.18.0"
+  }
 }
