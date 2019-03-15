@@ -4,6 +4,7 @@ I haven't written a line of React.js in over a year and miss it. So I'm going to
 List of things to do:
 
 - [ ] Decide on less/sass
+- [ ] Learn how to restrict / require PR on branches of github repos.
 - [ ] Create a new logo because fuck Apple News.
 - [ ] Get CI working with github.
 - [ ] Learn webpack or get gulp to cooperate with react.
