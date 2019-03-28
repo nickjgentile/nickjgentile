@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <p>
-            Holy fuck I'm back in EJS.
+            Holy fuck I'm back in React.
           </p>
           <a
             className="App-link"
